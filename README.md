@@ -28,8 +28,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
       - green/XSS.gif
 
   - Vulnerability #2: Username Enumeration (If user exists then the response from website is bold otherwise not bold)
-green/User 
-    - Enumeration.gif
+    - green/User Enumeration.gif
 
 ## Red
 
